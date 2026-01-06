@@ -13,7 +13,7 @@ public class BankClass {
         int choice;
 
         do{
-            System.out.println("\n List menus :");
+            System.out.println("\n Lists menus :");
             System.out.println("1) Create account");
             System.out.println("2) Withdraw money");
             System.out.println("3) Deposit money");

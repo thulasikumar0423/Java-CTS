@@ -1,4 +1,4 @@
-package pack;
+package Lambda;
 import pack1.BaseClass;
 
 public class NewPackageClass {
